@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(180, 184, 184);
+}
+.head{
+    height: 75px;
+    width: 1400px;
+    background-color: rgb(134, 132, 132);
+    padding: 40px;
+}
+.div{
+    margin-right: 40px;
+    display: inline;
+    color: antiquewhite;
+}
+img{
+    border-radius: 50%;
+    height: 250px;
+    transition: height 2s;
+}
+img:hover{
+    height: 350px;
+}
+#My_project{
+    height: 200px;
+    background-color:rgb(186, 141, 172);
+}
+.right{
+    background-color: rgb(54, 52, 52);
+    color: aliceblue;
+    height: 40px;
+    width: 1480;
+    padding-top: 2px;
+}
